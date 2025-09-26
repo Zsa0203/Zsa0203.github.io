@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: yangdong-liu # your GitHub user name
+github_username: ShiAi-Zheng # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -120,10 +120,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Narrative and Society # blog_name will be displayed in your blog page
+blog_name: Digital marketing communication and Chinese traditional culture # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 #blog_description: When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create. ---- _why
-blog_description: 叙事与社会
+blog_description: 数字营销传播和中国传统文化
 
 permalink: /blog/:year/:title/
 
@@ -139,7 +139,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: yangdong-liu/yangdong-liu.github.io                         # <your-github-user-name>/<your-github-repo-name>
+  repo: Zsa0203/Zsa0203.github.io                         # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOKitcqQ
   category: Announcements             # name of the category under which discussions will be created
   category-id: DIC_kwDOKitcqc4CcVzD
@@ -152,7 +152,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: yangdong # put your disqus shortname
+disqus_shortname: ShiAi # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
