@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I participate in the Big Data and Causal Inference Seminar hosted by LCG-THU.
+title: I participated in the Yixiang Tiankai Studio at Jinan University.
 date: 2023-6-30 12:00:00-0400
 inline: false
 related_posts: false
