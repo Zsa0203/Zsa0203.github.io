@@ -1,0 +1,28 @@
+name: Check for broken links
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths-ignore:
+      - "**"  # 忽略所有文件，实际上禁用了这个 workflow
+  pull_request:
+    branches:
+      - master
+      - main
+    paths-ignore:
+      - "**"  # 忽略所有文件，实际上禁用了这个 workflow
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker 🔗
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          fail: true
+          # removed md files that include liquid tags
+          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
