@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I become a postgraduate at the School of Journalism and Communication, Nanjing University. 🎓
+I become a postgraduate at the School of Journalism and Communication, Nanjing University. 📚
