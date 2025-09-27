@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I become an undergraduate at the School of Journalism and Communication, Jinan University. 🎓
+I become an undergraduate at the School of Journalism and Communication, Jinan University. 📚
