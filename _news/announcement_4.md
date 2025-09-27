@@ -1,14 +1,15 @@
 ---
 layout: post
 title: My two works are accepted by ICA2025, Denver, Colorado, USA. 🎉
-date: 2023-8-15 10:00:00+0800
+date: 2023-11-15 10:00:00+0800
 inline: false
 related_posts: false
 ---
 
-The National Simulation Innovation Application Competition I participated in won the third prize in Guangdong Province.
+I won the third prize in Guangdong Province of the National Simulation Innovation Application Entrepreneurship Competition.
 
 
-The National Simulation Innovation Application Competition that I participated in won the third prize in Guangdong Province. The filming theme was to go to Hong Kong to interview Mr. Xu Jiaxiong, a master craftsman. I produced a 5-minute film titled 'Dragon Scale Rolling, Bamboo and Paper Interweaving'.
+I won the third prize in Guangdong Province of the National Simulation Innovation and Application Entrepreneurship Competition. My entry was a video titled 《龙鳞翻腾，竹与纸的交织》 produced after interviewing Mr. Xu Jiaxiong, a master of weaving, in Hong Kong.
+
 
 
