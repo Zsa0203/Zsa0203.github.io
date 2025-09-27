@@ -24,14 +24,9 @@ nav_order: 8
 <br><br>
 
 
-### **工作论文**
 
-1. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
-2. **Liu, Y.**, Huang, J., Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM
-
-### **会议论文**
+### **参加比赛**
 
 
-1. **Liu, Y.**, Wang, C.J.* (2025). Mapping Causal Narratives Using LLMs in Political Discourse. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-2. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-3. Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
+1. 2023年6月，第九届物联网+大学生创新创业大赛《遗想天开——Z世代视域下粤港澳非遗数字化传承与国内外创新传播》校赛二等奖
+2. 2023年8月，全国仿真创新应用大赛创业大赛《龙鳞翻腾，竹与纸的交织》广东省三等奖
