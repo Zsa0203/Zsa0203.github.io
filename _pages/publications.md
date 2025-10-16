@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: research # origin name: publications
-description: All my publications, conference papers and working papers.
+title: experience # origin name: publications
+description: My internship experience and strengths.
 nav: true
 nav_order: 1
 ---
@@ -17,18 +17,31 @@ nav_order: 1
 
 
 
-### **Selected Working in Progress**
+### **Practical Experience**
 
-1. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
-2. **Liu, Y.**, Huang, J., Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM
+1.2022.07——2022.08 深圳前海手绘有限公司 用户运营实习生
 
-### **Conference Papers**
+负责剪辑前海手绘公司小程序“来画”小程序的视频，利用优质的内容制作让公司小程序获得更多的曝光及关注，并且根据用户的行为分析判断用户需求、特点，从而更好地优化内容，带来更高的转化率。
 
-1. **Liu, Y.**, Wang, C.J.* (2025). Mapping Causal Narratives Using LLMs in Political Discourse. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-2. **Liu, Y.**, Zhou, Z., Zhang, Y., Wang, C. J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. Paper to be presented at the 75th Annual International Communication Association Conference (ICA), Denver, Colorado, USA.
-3. Zhang, Y., Wang, Y., Yan, L., & **Liu, Y.** (2024). Unraveling the NFT Narrative Labyrinth: Persuasive Effects of Interactive Engagement and Structure on Transaction Attention. Paper to be presented at the 74th Annual International Communication Association Conference (ICA), Gold Coast, Australia.
+2.2022.09——2023.03 南方都市报 健康教育部实习生
+
+负责新闻稿的撰写，跟随公司专业记者一起采写，前往佛山与“众创”青年进行对话，探讨此团队研发出全球领先的功率半导体文章，并将最后采写成果对发布在南方都市报APP，阅读量达7313次。
+
+负责南方都市报“N视频”剪辑，跟随公司前往东莞、佛山、清远等地拍摄，视频浏览量达10000人。
+
+3.2024.07——2024.11 广州越秀康养产业投资控股有限公司 短视频运营实习生
+
+针对公司旗下三家养老院进行营销推广，结合视频内容制作、小红书文案写作、微信公众号推文创作来吸引目标用户，并且根据用户反馈情况来优化内容策略和推广渠道，以实现业务转化、扩大影响力的目的。
+
+对比本公司制作内容和竞争公司制作内容，通过案头研究包括网站公众号、报告等，整理竞品分析从而调整营销策略。
 
 
-### **Data**
+### **Skill**
 
-1. China's Diplomat in X(Twitter). Working in Progress.
+1.剪映
+
+2.Photoshop
+
+3.Premier
+
+4.CET-6 532
